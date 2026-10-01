@@ -1,0 +1,6 @@
+{
+  "name": "Glowora | Luxury Beauty, Skincare & Cosmetics",
+  "description": "Discover curated luxury beauty, skincare, haircare, and fragrances at Glowora. Shop bestselling cosmetics, exclusive beauty offers, and personalized routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
